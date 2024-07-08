@@ -13,7 +13,7 @@ import java.util.stream.LongStream;
     NOTE: SEE TestProblem_1 FOR SOLUTION.
  */
 
-public class Problem_1 implements Solvable {
+public class Problem1 implements Solvable {
 	
 	public String getSolution() {
 		MultipleSequence threeGenerator = new MultipleSequence.MultipleSequenceBuilder()
